@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "advanced local search cli"
+version = "0.1.0"
+description = "A simple CLI program to demonstrate Great Deluge Algorithm and Harmony Search Algorithm"
+authors = ["Ahmad Nuruddin <ahmadazhar10@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

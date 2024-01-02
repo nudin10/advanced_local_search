@@ -1,0 +1,467 @@
+{
+    "name": "Graph configuration",
+    "nodes": [
+        "Kluang",
+        "Padang Matsirat",
+        "Tumpat",
+        "Machang",
+        "Gua Musang",
+        "Kampung Ayer Keroh",
+        "Batu Pahat",
+        "Kuala Kangsar",
+        "Sibu",
+        "Putrajaya"
+    ],
+    "w_nodes": [
+        [
+            "Kluang",
+            "Padang Matsirat",
+            6
+        ],
+        [
+            "Kluang",
+            "Tumpat",
+            20
+        ],
+        [
+            "Kluang",
+            "Machang",
+            7
+        ],
+        [
+            "Kluang",
+            "Gua Musang",
+            10
+        ],
+        [
+            "Kluang",
+            "Kampung Ayer Keroh",
+            18
+        ],
+        [
+            "Kluang",
+            "Batu Pahat",
+            16
+        ],
+        [
+            "Kluang",
+            "Kuala Kangsar",
+            14
+        ],
+        [
+            "Kluang",
+            "Sibu",
+            19
+        ],
+        [
+            "Kluang",
+            "Putrajaya",
+            7
+        ],
+        [
+            "Padang Matsirat",
+            "Kluang",
+            10
+        ],
+        [
+            "Padang Matsirat",
+            "Tumpat",
+            7
+        ],
+        [
+            "Padang Matsirat",
+            "Machang",
+            13
+        ],
+        [
+            "Padang Matsirat",
+            "Gua Musang",
+            17
+        ],
+        [
+            "Padang Matsirat",
+            "Kampung Ayer Keroh",
+            17
+        ],
+        [
+            "Padang Matsirat",
+            "Batu Pahat",
+            10
+        ],
+        [
+            "Padang Matsirat",
+            "Kuala Kangsar",
+            12
+        ],
+        [
+            "Padang Matsirat",
+            "Sibu",
+            19
+        ],
+        [
+            "Padang Matsirat",
+            "Putrajaya",
+            8
+        ],
+        [
+            "Tumpat",
+            "Kluang",
+            18
+        ],
+        [
+            "Tumpat",
+            "Padang Matsirat",
+            19
+        ],
+        [
+            "Tumpat",
+            "Machang",
+            17
+        ],
+        [
+            "Tumpat",
+            "Gua Musang",
+            10
+        ],
+        [
+            "Tumpat",
+            "Kampung Ayer Keroh",
+            5
+        ],
+        [
+            "Tumpat",
+            "Batu Pahat",
+            16
+        ],
+        [
+            "Tumpat",
+            "Kuala Kangsar",
+            7
+        ],
+        [
+            "Tumpat",
+            "Sibu",
+            17
+        ],
+        [
+            "Tumpat",
+            "Putrajaya",
+            10
+        ],
+        [
+            "Machang",
+            "Kluang",
+            13
+        ],
+        [
+            "Machang",
+            "Padang Matsirat",
+            9
+        ],
+        [
+            "Machang",
+            "Tumpat",
+            6
+        ],
+        [
+            "Machang",
+            "Gua Musang",
+            16
+        ],
+        [
+            "Machang",
+            "Kampung Ayer Keroh",
+            10
+        ],
+        [
+            "Machang",
+            "Batu Pahat",
+            9
+        ],
+        [
+            "Machang",
+            "Kuala Kangsar",
+            15
+        ],
+        [
+            "Machang",
+            "Sibu",
+            7
+        ],
+        [
+            "Machang",
+            "Putrajaya",
+            17
+        ],
+        [
+            "Gua Musang",
+            "Kluang",
+            8
+        ],
+        [
+            "Gua Musang",
+            "Padang Matsirat",
+            19
+        ],
+        [
+            "Gua Musang",
+            "Tumpat",
+            14
+        ],
+        [
+            "Gua Musang",
+            "Machang",
+            9
+        ],
+        [
+            "Gua Musang",
+            "Kampung Ayer Keroh",
+            14
+        ],
+        [
+            "Gua Musang",
+            "Batu Pahat",
+            10
+        ],
+        [
+            "Gua Musang",
+            "Kuala Kangsar",
+            10
+        ],
+        [
+            "Gua Musang",
+            "Sibu",
+            14
+        ],
+        [
+            "Gua Musang",
+            "Putrajaya",
+            18
+        ],
+        [
+            "Kampung Ayer Keroh",
+            "Kluang",
+            20
+        ],
+        [
+            "Kampung Ayer Keroh",
+            "Padang Matsirat",
+            12
+        ],
+        [
+            "Kampung Ayer Keroh",
+            "Tumpat",
+            11
+        ],
+        [
+            "Kampung Ayer Keroh",
+            "Machang",
+            14
+        ],
+        [
+            "Kampung Ayer Keroh",
+            "Gua Musang",
+            17
+        ],
+        [
+            "Kampung Ayer Keroh",
+            "Batu Pahat",
+            18
+        ],
+        [
+            "Kampung Ayer Keroh",
+            "Kuala Kangsar",
+            20
+        ],
+        [
+            "Kampung Ayer Keroh",
+            "Sibu",
+            13
+        ],
+        [
+            "Kampung Ayer Keroh",
+            "Putrajaya",
+            13
+        ],
+        [
+            "Batu Pahat",
+            "Kluang",
+            14
+        ],
+        [
+            "Batu Pahat",
+            "Padang Matsirat",
+            14
+        ],
+        [
+            "Batu Pahat",
+            "Tumpat",
+            13
+        ],
+        [
+            "Batu Pahat",
+            "Machang",
+            8
+        ],
+        [
+            "Batu Pahat",
+            "Gua Musang",
+            11
+        ],
+        [
+            "Batu Pahat",
+            "Kampung Ayer Keroh",
+            14
+        ],
+        [
+            "Batu Pahat",
+            "Kuala Kangsar",
+            16
+        ],
+        [
+            "Batu Pahat",
+            "Sibu",
+            10
+        ],
+        [
+            "Batu Pahat",
+            "Putrajaya",
+            17
+        ],
+        [
+            "Kuala Kangsar",
+            "Kluang",
+            10
+        ],
+        [
+            "Kuala Kangsar",
+            "Padang Matsirat",
+            17
+        ],
+        [
+            "Kuala Kangsar",
+            "Tumpat",
+            11
+        ],
+        [
+            "Kuala Kangsar",
+            "Machang",
+            20
+        ],
+        [
+            "Kuala Kangsar",
+            "Gua Musang",
+            10
+        ],
+        [
+            "Kuala Kangsar",
+            "Kampung Ayer Keroh",
+            17
+        ],
+        [
+            "Kuala Kangsar",
+            "Batu Pahat",
+            5
+        ],
+        [
+            "Kuala Kangsar",
+            "Sibu",
+            19
+        ],
+        [
+            "Kuala Kangsar",
+            "Putrajaya",
+            5
+        ],
+        [
+            "Sibu",
+            "Kluang",
+            17
+        ],
+        [
+            "Sibu",
+            "Padang Matsirat",
+            12
+        ],
+        [
+            "Sibu",
+            "Tumpat",
+            16
+        ],
+        [
+            "Sibu",
+            "Machang",
+            13
+        ],
+        [
+            "Sibu",
+            "Gua Musang",
+            10
+        ],
+        [
+            "Sibu",
+            "Kampung Ayer Keroh",
+            12
+        ],
+        [
+            "Sibu",
+            "Batu Pahat",
+            17
+        ],
+        [
+            "Sibu",
+            "Kuala Kangsar",
+            16
+        ],
+        [
+            "Sibu",
+            "Putrajaya",
+            12
+        ],
+        [
+            "Putrajaya",
+            "Kluang",
+            10
+        ],
+        [
+            "Putrajaya",
+            "Padang Matsirat",
+            12
+        ],
+        [
+            "Putrajaya",
+            "Tumpat",
+            5
+        ],
+        [
+            "Putrajaya",
+            "Machang",
+            18
+        ],
+        [
+            "Putrajaya",
+            "Gua Musang",
+            16
+        ],
+        [
+            "Putrajaya",
+            "Kampung Ayer Keroh",
+            14
+        ],
+        [
+            "Putrajaya",
+            "Batu Pahat",
+            20
+        ],
+        [
+            "Putrajaya",
+            "Kuala Kangsar",
+            7
+        ],
+        [
+            "Putrajaya",
+            "Sibu",
+            17
+        ]
+    ]
+}

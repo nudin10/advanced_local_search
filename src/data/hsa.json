@@ -1,0 +1,4448 @@
+{
+    "name": "HSA data",
+    "paths": {
+        "all": [
+            {
+                "path": [
+                    "Kluang",
+                    "Kuala Kangsar",
+                    "Padang Matsirat",
+                    "Tumpat",
+                    "Machang",
+                    "Putrajaya",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Batu Pahat",
+                    "Gua Musang",
+                    "Kluang"
+                ],
+                "score": 132,
+                "iter": 2
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Machang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Gua Musang",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 115,
+                "iter": 3
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Kuala Kangsar",
+                    "Padang Matsirat",
+                    "Tumpat",
+                    "Machang",
+                    "Putrajaya",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Batu Pahat",
+                    "Gua Musang",
+                    "Kluang"
+                ],
+                "score": 132,
+                "iter": 6
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Tumpat",
+                    "Batu Pahat",
+                    "Gua Musang",
+                    "Sibu",
+                    "Kampung Ayer Keroh",
+                    "Padang Matsirat",
+                    "Kuala Kangsar",
+                    "Putrajaya",
+                    "Machang",
+                    "Kluang"
+                ],
+                "score": 131,
+                "iter": 10
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Machang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Kampung Ayer Keroh",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Gua Musang",
+                    "Padang Matsirat",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 119,
+                "iter": 11
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Machang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Kampung Ayer Keroh",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Gua Musang",
+                    "Padang Matsirat",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 119,
+                "iter": 23
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Machang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Kampung Ayer Keroh",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Gua Musang",
+                    "Padang Matsirat",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 119,
+                "iter": 24
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Machang",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 112,
+                "iter": 31
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Machang",
+                    "Tumpat",
+                    "Padang Matsirat",
+                    "Kampung Ayer Keroh",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Gua Musang",
+                    "Putrajaya",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 133,
+                "iter": 40
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Machang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Sibu",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Gua Musang",
+                    "Padang Matsirat",
+                    "Kampung Ayer Keroh",
+                    "Kluang"
+                ],
+                "score": 124,
+                "iter": 41
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Machang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Kampung Ayer Keroh",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Gua Musang",
+                    "Padang Matsirat",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 119,
+                "iter": 45
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Machang",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 112,
+                "iter": 47
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Machang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Kampung Ayer Keroh",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Gua Musang",
+                    "Padang Matsirat",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 119,
+                "iter": 48
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Batu Pahat",
+                    "Padang Matsirat",
+                    "Kuala Kangsar",
+                    "Putrajaya",
+                    "Machang",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 134,
+                "iter": 51
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Machang",
+                    "Batu Pahat",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 129,
+                "iter": 55
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Machang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Kampung Ayer Keroh",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Padang Matsirat",
+                    "Gua Musang",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 120,
+                "iter": 62
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Machang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Kampung Ayer Keroh",
+                    "Kuala Kangsar",
+                    "Padang Matsirat",
+                    "Gua Musang",
+                    "Batu Pahat",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 136,
+                "iter": 63
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 65
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Machang",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 112,
+                "iter": 66
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Machang",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 112,
+                "iter": 73
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Machang",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 112,
+                "iter": 75
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Machang",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 112,
+                "iter": 80
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Machang",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 112,
+                "iter": 81
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 82
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Machang",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 112,
+                "iter": 87
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Machang",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 112,
+                "iter": 89
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Kampung Ayer Keroh",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Padang Matsirat",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 114,
+                "iter": 92
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 93
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Sibu",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Machang",
+                    "Kampung Ayer Keroh",
+                    "Tumpat",
+                    "Kluang"
+                ],
+                "score": 120,
+                "iter": 95
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Machang",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 112,
+                "iter": 100
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Machang",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 112,
+                "iter": 103
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Padang Matsirat",
+                    "Putrajaya",
+                    "Tumpat",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Machang",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 111,
+                "iter": 104
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 105
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 107
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Kuala Kangsar",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Putrajaya",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 130,
+                "iter": 108
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Kampung Ayer Keroh",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Putrajaya",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 108,
+                "iter": 114
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Machang",
+                    "Padang Matsirat",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 119,
+                "iter": 115
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 116
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 118
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Batu Pahat",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Gua Musang",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 118,
+                "iter": 119
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 122
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Tumpat",
+                    "Gua Musang",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 128,
+                "iter": 124
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Machang",
+                    "Padang Matsirat",
+                    "Putrajaya",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 120,
+                "iter": 125
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Putrajaya",
+                    "Tumpat",
+                    "Gua Musang",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 116,
+                "iter": 127
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 132
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 133
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 135
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Batu Pahat",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Gua Musang",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 118,
+                "iter": 136
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Batu Pahat",
+                    "Machang",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 127,
+                "iter": 138
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Sibu",
+                    "Kampung Ayer Keroh",
+                    "Kuala Kangsar",
+                    "Kluang"
+                ],
+                "score": 112,
+                "iter": 140
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Batu Pahat",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Gua Musang",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 118,
+                "iter": 145
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 147
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Machang",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 112,
+                "iter": 148
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 151
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Sibu",
+                    "Kampung Ayer Keroh",
+                    "Kuala Kangsar",
+                    "Kluang"
+                ],
+                "score": 112,
+                "iter": 152
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 154
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 156
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 158
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 160
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Machang",
+                    "Padang Matsirat",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 119,
+                "iter": 161
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Kampung Ayer Keroh",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Machang",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 120,
+                "iter": 163
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 164
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 167
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Kampung Ayer Keroh",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Tumpat",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 117,
+                "iter": 170
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Batu Pahat",
+                    "Machang",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 127,
+                "iter": 171
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Putrajaya",
+                    "Tumpat",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 116,
+                "iter": 172
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Sibu",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Tumpat",
+                    "Kluang"
+                ],
+                "score": 115,
+                "iter": 175
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 176
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Sibu",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Padang Matsirat",
+                    "Kluang"
+                ],
+                "score": 109,
+                "iter": 177
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 178
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Batu Pahat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Tumpat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 123,
+                "iter": 179
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Machang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Gua Musang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 117,
+                "iter": 180
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 185
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Kampung Ayer Keroh",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Tumpat",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 117,
+                "iter": 192
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kampung Ayer Keroh",
+                    "Kuala Kangsar",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 120,
+                "iter": 193
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Kuala Kangsar",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Tumpat",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 195
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Machang",
+                    "Padang Matsirat",
+                    "Putrajaya",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 120,
+                "iter": 196
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 197
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Putrajaya",
+                    "Tumpat",
+                    "Gua Musang",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 116,
+                "iter": 200
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 201
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 202
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 204
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Padang Matsirat",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Gua Musang",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 118,
+                "iter": 206
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Kampung Ayer Keroh",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Machang",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 120,
+                "iter": 207
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 210
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Sibu",
+                    "Kampung Ayer Keroh",
+                    "Kuala Kangsar",
+                    "Kluang"
+                ],
+                "score": 112,
+                "iter": 211
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Padang Matsirat",
+                    "Putrajaya",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 130,
+                "iter": 212
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Tumpat",
+                    "Gua Musang",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 128,
+                "iter": 213
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 215
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Machang",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 112,
+                "iter": 216
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 219
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Sibu",
+                    "Kampung Ayer Keroh",
+                    "Kuala Kangsar",
+                    "Kluang"
+                ],
+                "score": 112,
+                "iter": 222
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 223
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 224
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 225
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Sibu",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Machang",
+                    "Kluang"
+                ],
+                "score": 117,
+                "iter": 226
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 227
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Tumpat",
+                    "Gua Musang",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 128,
+                "iter": 228
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Machang",
+                    "Padang Matsirat",
+                    "Putrajaya",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 120,
+                "iter": 231
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 232
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Batu Pahat",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Putrajaya",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 129,
+                "iter": 233
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Sibu",
+                    "Kampung Ayer Keroh",
+                    "Kuala Kangsar",
+                    "Kluang"
+                ],
+                "score": 112,
+                "iter": 235
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Kampung Ayer Keroh",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Machang",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 120,
+                "iter": 236
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 237
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 240
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 241
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Kampung Ayer Keroh",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 118,
+                "iter": 243
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Kampung Ayer Keroh",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Tumpat",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 117,
+                "iter": 245
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Kampung Ayer Keroh",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Putrajaya",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 108,
+                "iter": 247
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Kampung Ayer Keroh",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Putrajaya",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 108,
+                "iter": 248
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 249
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 251
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Kampung Ayer Keroh",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Gua Musang",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 254
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 255
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 256
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 257
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 261
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 262
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 263
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 265
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 272
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 273
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Sibu",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Machang",
+                    "Kluang"
+                ],
+                "score": 117,
+                "iter": 275
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 278
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Sibu",
+                    "Kampung Ayer Keroh",
+                    "Kuala Kangsar",
+                    "Kluang"
+                ],
+                "score": 112,
+                "iter": 279
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 281
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 282
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Batu Pahat",
+                    "Machang",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 127,
+                "iter": 283
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Batu Pahat",
+                    "Machang",
+                    "Padang Matsirat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 127,
+                "iter": 284
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 286
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 287
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 292
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 296
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Machang",
+                    "Padang Matsirat",
+                    "Putrajaya",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 120,
+                "iter": 297
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 298
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Batu Pahat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Tumpat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 123,
+                "iter": 300
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 301
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Kampung Ayer Keroh",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Gua Musang",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 304
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 309
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Machang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Gua Musang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 117,
+                "iter": 310
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Kampung Ayer Keroh",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Padang Matsirat",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 114,
+                "iter": 312
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 314
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Kuala Kangsar",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Putrajaya",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 130,
+                "iter": 315
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Sibu",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Tumpat",
+                    "Kluang"
+                ],
+                "score": 115,
+                "iter": 317
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Putrajaya",
+                    "Tumpat",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 116,
+                "iter": 321
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Padang Matsirat",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Gua Musang",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 118,
+                "iter": 323
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Sibu",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Batu Pahat",
+                    "Kluang"
+                ],
+                "score": 122,
+                "iter": 324
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 328
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 329
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 330
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 333
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Batu Pahat",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Gua Musang",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 118,
+                "iter": 334
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 335
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 336
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 339
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Sibu",
+                    "Kampung Ayer Keroh",
+                    "Kluang"
+                ],
+                "score": 109,
+                "iter": 341
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 343
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Sibu",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Batu Pahat",
+                    "Kluang"
+                ],
+                "score": 122,
+                "iter": 344
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 349
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 350
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 351
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 352
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Sibu",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Batu Pahat",
+                    "Kluang"
+                ],
+                "score": 122,
+                "iter": 353
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Padang Matsirat",
+                    "Putrajaya",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 130,
+                "iter": 354
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Sibu",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Padang Matsirat",
+                    "Kluang"
+                ],
+                "score": 109,
+                "iter": 357
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 364
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 366
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 367
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 369
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Machang",
+                    "Padang Matsirat",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 119,
+                "iter": 370
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 372
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 373
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Padang Matsirat",
+                    "Putrajaya",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 130,
+                "iter": 374
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 376
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Kampung Ayer Keroh",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Gua Musang",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 378
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Kuala Kangsar",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Gua Musang",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 112,
+                "iter": 379
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Sibu",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Machang",
+                    "Kluang"
+                ],
+                "score": 117,
+                "iter": 380
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Padang Matsirat",
+                    "Putrajaya",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 130,
+                "iter": 382
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Sibu",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Machang",
+                    "Kluang"
+                ],
+                "score": 117,
+                "iter": 384
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 385
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Sibu",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Padang Matsirat",
+                    "Kluang"
+                ],
+                "score": 109,
+                "iter": 388
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 389
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Kampung Ayer Keroh",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Padang Matsirat",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 114,
+                "iter": 390
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 392
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Sibu",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Batu Pahat",
+                    "Kluang"
+                ],
+                "score": 122,
+                "iter": 394
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 396
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Kampung Ayer Keroh",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Machang",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 120,
+                "iter": 398
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 401
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Kampung Ayer Keroh",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Padang Matsirat",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 114,
+                "iter": 402
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 403
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Padang Matsirat",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Gua Musang",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 118,
+                "iter": 407
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Kampung Ayer Keroh",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Tumpat",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 117,
+                "iter": 408
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Batu Pahat",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Putrajaya",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 129,
+                "iter": 409
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 410
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 412
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Batu Pahat",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Putrajaya",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 129,
+                "iter": 413
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 414
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 416
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 419
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Kampung Ayer Keroh",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Machang",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 120,
+                "iter": 420
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Machang",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Tumpat",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 130,
+                "iter": 422
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Machang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Gua Musang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 117,
+                "iter": 425
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Sibu",
+                    "Kampung Ayer Keroh",
+                    "Kluang"
+                ],
+                "score": 109,
+                "iter": 426
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Machang",
+                    "Padang Matsirat",
+                    "Putrajaya",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 120,
+                "iter": 428
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Sibu",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Padang Matsirat",
+                    "Kluang"
+                ],
+                "score": 109,
+                "iter": 430
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 432
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Kuala Kangsar",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Tumpat",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 433
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Sibu",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Padang Matsirat",
+                    "Kluang"
+                ],
+                "score": 109,
+                "iter": 434
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Machang",
+                    "Padang Matsirat",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 119,
+                "iter": 438
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 439
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 441
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 445
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Batu Pahat",
+                    "Machang",
+                    "Padang Matsirat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 127,
+                "iter": 446
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Batu Pahat",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Gua Musang",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 118,
+                "iter": 447
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 449
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Sibu",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Tumpat",
+                    "Kluang"
+                ],
+                "score": 115,
+                "iter": 450
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 452
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 455
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Padang Matsirat",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Gua Musang",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 118,
+                "iter": 457
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Kampung Ayer Keroh",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Putrajaya",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 108,
+                "iter": 458
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 459
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 460
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Sibu",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Batu Pahat",
+                    "Kluang"
+                ],
+                "score": 122,
+                "iter": 461
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Padang Matsirat",
+                    "Putrajaya",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 130,
+                "iter": 462
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 463
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 467
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 468
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Machang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Gua Musang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 117,
+                "iter": 469
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Sibu",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Gua Musang",
+                    "Kluang"
+                ],
+                "score": 114,
+                "iter": 470
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 116,
+                "iter": 473
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 116,
+                "iter": 474
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 476
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Sibu",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Padang Matsirat",
+                    "Kluang"
+                ],
+                "score": 109,
+                "iter": 477
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Tumpat",
+                    "Gua Musang",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 128,
+                "iter": 478
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Kampung Ayer Keroh",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Putrajaya",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 108,
+                "iter": 479
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Putrajaya",
+                    "Tumpat",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 116,
+                "iter": 480
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 482
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Kampung Ayer Keroh",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Tumpat",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 117,
+                "iter": 484
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 485
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Machang",
+                    "Padang Matsirat",
+                    "Putrajaya",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 120,
+                "iter": 486
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Sibu",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Batu Pahat",
+                    "Kluang"
+                ],
+                "score": 122,
+                "iter": 487
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Machang",
+                    "Padang Matsirat",
+                    "Putrajaya",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 120,
+                "iter": 488
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Putrajaya",
+                    "Tumpat",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 116,
+                "iter": 490
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 492
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Sibu",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Putrajaya",
+                    "Kluang"
+                ],
+                "score": 113,
+                "iter": 495
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Batu Pahat",
+                    "Machang",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 127,
+                "iter": 498
+            }
+        ],
+        "accepted": [
+            {
+                "path": [
+                    "Kluang",
+                    "Kuala Kangsar",
+                    "Padang Matsirat",
+                    "Tumpat",
+                    "Machang",
+                    "Putrajaya",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Batu Pahat",
+                    "Gua Musang",
+                    "Kluang"
+                ],
+                "score": 132,
+                "iter": 2
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Machang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Gua Musang",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 115,
+                "iter": 3
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Tumpat",
+                    "Batu Pahat",
+                    "Gua Musang",
+                    "Sibu",
+                    "Kampung Ayer Keroh",
+                    "Padang Matsirat",
+                    "Kuala Kangsar",
+                    "Putrajaya",
+                    "Machang",
+                    "Kluang"
+                ],
+                "score": 131,
+                "iter": 10
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Machang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Kampung Ayer Keroh",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Gua Musang",
+                    "Padang Matsirat",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 119,
+                "iter": 11
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Machang",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 112,
+                "iter": 31
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 65
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Padang Matsirat",
+                    "Putrajaya",
+                    "Tumpat",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Machang",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 111,
+                "iter": 104
+            }
+        ],
+        "best": {
+            "path": [
+                "Kluang",
+                "Gua Musang",
+                "Tumpat",
+                "Putrajaya",
+                "Padang Matsirat",
+                "Machang",
+                "Batu Pahat",
+                "Kuala Kangsar",
+                "Kampung Ayer Keroh",
+                "Sibu",
+                "Kluang"
+            ],
+            "score": 107,
+            "iter": 82
+        },
+        "best_per_iter": [
+            {
+                "path": [
+                    "Kluang",
+                    "Machang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Kampung Ayer Keroh",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Gua Musang",
+                    "Padang Matsirat",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 119,
+                "iter": 0
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Machang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Gua Musang",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 115,
+                "iter": 3
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Machang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Gua Musang",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 115,
+                "iter": 3
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Machang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Gua Musang",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 115,
+                "iter": 3
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Kuala Kangsar",
+                    "Batu Pahat",
+                    "Machang",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 112,
+                "iter": 31
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 65
+            },
+            {
+                "path": [
+                    "Kluang",
+                    "Gua Musang",
+                    "Tumpat",
+                    "Putrajaya",
+                    "Padang Matsirat",
+                    "Machang",
+                    "Batu Pahat",
+                    "Kuala Kangsar",
+                    "Kampung Ayer Keroh",
+                    "Sibu",
+                    "Kluang"
+                ],
+                "score": 107,
+                "iter": 82
+            }
+        ]
+    }
+}
