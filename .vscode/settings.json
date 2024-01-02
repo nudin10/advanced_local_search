@@ -1,6 +1,0 @@
-{
-    "python.analysis.typeCheckingMode": "basic",
-    "python.analysis.autoImportCompletions": true,
-    "python.terminal.activateEnvironment": true,
-    "python.defaultInterpreterPath": "~/venv/bin/python"
-}
