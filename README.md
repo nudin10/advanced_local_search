@@ -1,7 +1,7 @@
 # Advanced Local Search CLI
 This is a CLI program that helps demonstrate how Great Deluge and Harmony Search operates when used to solve a Travelling Salesman Problem.
 
-# To run
+## To run
 ```python main.py``` from root directory
 
 ## How to use
