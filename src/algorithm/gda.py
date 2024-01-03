@@ -58,15 +58,37 @@ def run(G: TspGraph):
 
         i += 1
     # --- IMPROVEMENT PHASE --
-        
+
     # --- OUTPUT ---
     data = {
         "name": "GDA data",
         "paths": {
-            "all": [{"path": sol.path, "score": sol.score, "iter": sol.iter} for sol in all_sols],
-            "accepted": [{"path": sol.path, "score": sol.score, "iter": sol.iter} for sol in accepted_sols],
-            "best": {"path": best_sol.path, "score": best_sol.score, "iter": best_sol.iter},
+            "all": [
+                {"path": sol.path, "score": sol.score, "iter": sol.iter}
+                for sol in all_sols
+            ],
+            "accepted": [
+                {"path": sol.path, "score": sol.score, "iter": sol.iter}
+                for sol in accepted_sols
+            ],
+            "best": {
+                "path": best_sol.path,
+                "score": best_sol.score,
+                "iter": best_sol.iter,
+            },
         },
     }
     write_to_solution_json(data, "gda")
     # --- OUTPUT ---
+
+
+def reset():
+    data = {
+        "name": "GDA data",
+        "paths": {
+            "all": [{"path": [], "score": [], "iter": []}],
+            "accepted": [{"path": [], "score": [], "iter": []}],
+            "best": {"path": [], "score": [], "iter": []},
+        },
+    }
+    write_to_solution_json(data, "gda")

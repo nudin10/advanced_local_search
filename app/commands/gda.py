@@ -1,6 +1,6 @@
 import typer
 from src.misc.exceptions import GraphNotInitialisedError
-from src.algorithm.gda import run
+from src.algorithm.gda import reset, run
 from src.model.tsp import get_tsp_graph
 from src.excel.plot import Chart
 
@@ -25,3 +25,8 @@ def plot_():
     C = Chart("gda")
     C.set_data()
     C.create_chart()
+
+
+@app.command(name="reset")
+def reset_():
+    reset()

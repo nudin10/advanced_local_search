@@ -47,11 +47,37 @@ def run(G: TspGraph):
     data = {
         "name": "HSA data",
         "paths": {
-            "all": [{"path": sol.path, "score": sol.score, "iter": sol.iter} for sol in all_sols],
-            "accepted": [{"path": sol.path, "score": sol.score, "iter": sol.iter} for sol in accepted_sols],
-            "best": {"path": best_sol.path, "score": best_sol.score, "iter": best_sol.iter},
-            "best_per_iter":[{"path": sol.path, "score": sol.score, "iter": sol.iter} for sol in best_sols]
+            "all": [
+                {"path": sol.path, "score": sol.score, "iter": sol.iter}
+                for sol in all_sols
+            ],
+            "accepted": [
+                {"path": sol.path, "score": sol.score, "iter": sol.iter}
+                for sol in accepted_sols
+            ],
+            "best": {
+                "path": best_sol.path,
+                "score": best_sol.score,
+                "iter": best_sol.iter,
+            },
+            "best_per_iter": [
+                {"path": sol.path, "score": sol.score, "iter": sol.iter}
+                for sol in best_sols
+            ],
         },
     }
     write_to_solution_json(data, "hsa")
     # --- OUTPUT ---
+
+
+def reset():
+    data = {
+        "name": "HSA data",
+        "paths": {
+            "all": [{"path": [], "score": [], "iter": []}],
+            "accepted": [{"path": [], "score": [], "iter": []}],
+            "best": {"path": [], "score": [], "iter": []},
+            "best_per_iter": [{"path": [], "score": [], "iter": []}],
+        },
+    }
+    write_to_solution_json(data, "hsa")

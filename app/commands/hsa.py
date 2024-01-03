@@ -1,7 +1,7 @@
 import typer
 from src.excel.plot import Chart
 from src.misc.exceptions import GraphNotInitialisedError
-from src.algorithm.hsa import run
+from src.algorithm.hsa import reset, run
 from src.model.tsp import get_tsp_graph
 
 app = typer.Typer(no_args_is_help=True)
@@ -25,3 +25,8 @@ def plot_():
     C = Chart("hsa")
     C.set_data()
     C.create_chart()
+
+
+@app.command(name="reset")
+def reset_():
+    reset()
