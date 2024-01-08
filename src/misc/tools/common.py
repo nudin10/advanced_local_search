@@ -73,14 +73,20 @@ def walker(G: Graph, start_idx: int, end_idx: int) -> list[str]:
     return visited
 
 
-def swap(nodes: list[Any]) -> None:
+def swap(nodes: list[Any]) -> list[Any]:
     """
-    Randomly swap nodes other than the first and last node
+    Randomly swap nodes. Will always have the start node to be the same as end node
     """
-    list_cp = nodes[1 : len(nodes) - 1]
+    end = nodes[0]
+    list_cp = nodes[0 : len(nodes) - 1]
     j, k = random.sample(range(len(list_cp)), 2)
+    if j == 0:
+        end = nodes[k]
+    elif k == 0:
+        end = nodes[j]
     list_cp[j], list_cp[k] = list_cp[k], list_cp[j]
-    nodes[1 : len(nodes) - 1] = list_cp
+    list_cp.append(end)
+    return list_cp
 
 
 def estimate_quality(G: Graph, optimism: float) -> int:

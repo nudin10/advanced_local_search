@@ -8,7 +8,7 @@ class GD_Solution:
         self.iter = 0
         self.path = []
         self.score = 0
-        self.level = 0
+        self.level:float = 0
         self.up = 0
 
     def __eq__(self, compare) -> bool:

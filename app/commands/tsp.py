@@ -34,9 +34,12 @@ def show_graph_():
     except GraphNotInitialisedError:
         raise
 
-@app.command(
-    name="reset", 
-    help="Resets TSP graph",
-)
-def reset_graph_():
-    reset_graph()
+# @app.command(
+#     name="reset", 
+#     help="Resets TSP graph",
+# )
+# def reset_graph_():
+#     reset_graph()
+
+# @app.command()
+# def init_

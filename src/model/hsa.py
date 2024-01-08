@@ -34,6 +34,7 @@ class TSP_Solution:
 class HSA:
     def __init__(self, G: TspGraph) -> None:
         self._G = G.get_graph()
+        self.nodes = []
         self.hm: list[TSP_Solution] = []
         self.hms = 0
         self.hcmr: float = 0.00
@@ -55,6 +56,7 @@ class HSA:
             # regenerate solution if duplicate
             while True:
                 sol.path = walker(self._G, 0, 0)
+                self.nodes = sol.path
                 if sol not in self.hm:
                     sol.calculate_solution()
                     break

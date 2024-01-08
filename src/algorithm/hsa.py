@@ -29,7 +29,7 @@ def run(G: TspGraph):
             sol.iter = i
             sol.path = hsa.select_member().path.copy()
             if randint(0, 1) < hsa.pitch_adjust_rate:
-                swap(sol.path)
+                sol.path = swap(sol.path)
             sol.calculate_solution()
             all_sols.append(sol)
             worst_sol = max(hsa.hm)
