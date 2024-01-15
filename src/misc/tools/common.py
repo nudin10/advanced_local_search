@@ -1,4 +1,5 @@
 import math
+from operator import index
 import random
 from pathlib import Path
 from typing import Any
@@ -85,6 +86,20 @@ def swap(nodes: list[Any]) -> list[Any]:
     elif k == 0:
         end = nodes[j]
     list_cp[j], list_cp[k] = list_cp[k], list_cp[j]
+    list_cp.append(end)
+    return list_cp
+
+def swap_hsa(nodes: list[Any], city: str) -> list[Any]:
+    end = nodes[0]
+    list_cp = nodes[0 : len(nodes) - 1]
+    city_idx = nodes.index(city)
+    # j, k = random.sample(range(len(list_cp)), 2)
+    j = random.randint(0, len(list_cp) - 1)
+    if j == 0:
+        end = city
+    elif city_idx == 0:
+        end = nodes[j]
+    list_cp[j], list_cp[city_idx] = list_cp[city_idx], list_cp[j]
     list_cp.append(end)
     return list_cp
 

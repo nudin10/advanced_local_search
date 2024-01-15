@@ -28,8 +28,8 @@ class Chart:
                 [data["iter"], data["level"]] for data in raw["paths"]["levels"]
             ]
         elif self.solution.lower() == "hsa":
-            self.accepted_sol_data = [
-                [data["iter"], data["score"]] for data in raw["paths"]["accepted"]
+            self.best_sol_data = [
+                [data["iter"], data["score"]] for data in raw["paths"]["best_per_iter"]
             ]
         else:
             raise ValueError("Invalid solution set to Chart")

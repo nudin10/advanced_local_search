@@ -2,7 +2,7 @@
 from random import randint
 from src.model.tsp import TspGraph
 from src.model.hsa import HSA, TSP_Solution
-from src.misc.tools.common import write_to_solution_json, swap
+from src.misc.tools.common import swap_hsa, write_to_solution_json, swap
 
 
 def run(G: TspGraph):
@@ -24,23 +24,30 @@ def run(G: TspGraph):
     # --- IMPROVEMENT PHASE --
     i = 1
     while i <= hsa.number_of_improvisation:
-        if randint(0, 1) < hsa.hcmr:
-            sol: TSP_Solution = TSP_Solution(G)
-            sol.iter = i
-            sol.path = hsa.select_member().path.copy()
-            if randint(0, 1) < hsa.pitch_adjust_rate:
-                sol.path = swap(sol.path)
-            sol.calculate_solution()
-            all_sols.append(sol)
-            worst_sol = max(hsa.hm)
-            if sol.score < worst_sol.score:
-                if sol not in accepted_sols:
-                    accepted_sols.append(sol)
-                hsa.hm[hsa.hm.index(worst_sol)] = sol
-                if sol not in best_sols:
-                    best_sols.append(min(hsa.hm))
+        for city in hsa.nodes:
+            if randint(0, 1) < hsa.hcmr:
+                sol: TSP_Solution = TSP_Solution(G)
+                sol.iter = i
+                sol.path = hsa.select_member().path.copy()
+                if randint(0, 1) < hsa.pitch_adjust_rate:
+                    sol.path = swap_hsa(sol.path, city)
+                else:
+                    sol.path = swap(sol.path)
+                sol.calculate_solution()
+                all_sols.append(sol)
+                worst_sol = max(hsa.hm)
+                if sol.score < worst_sol.score:
+                    if sol not in accepted_sols:
+                        accepted_sols.append(sol)
+                    hsa.hm[hsa.hm.index(worst_sol)] = sol
+        best_sol = min(hsa.hm)
+        best_sols.append(best_sol)
         i += 1
-    best_sol = min(hsa.hm)
+
+    for sol in best_sols:
+        print(sol)
+    # for sol in accepted_sols:
+    #     print(sol)
     # --- IMPROVEMENT PHASE --
 
     # --- OUTPUT ---

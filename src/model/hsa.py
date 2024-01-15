@@ -65,7 +65,7 @@ class HSA:
 
     def select_member(self) -> TSP_Solution:
         """
-        Random selects member solution from harmony memory
+        Randomly select member solution from harmony memory
         """
         if len(self.hm) == 0:
             raise ValueError("No members to be selected!")
